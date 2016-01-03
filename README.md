@@ -1,0 +1,1 @@
+#This API uses Google Custom Search and works as an image search API and also can show latest searched images!
